@@ -1,0 +1,5 @@
+# Project-scoped Codex subagent configuration.
+# These roles run only when a Codex session invokes them.
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 2
