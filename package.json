@@ -1,0 +1,8 @@
+{
+  "name": "subvention-energie",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.13.0" },
+  "scripts": { "start": "node platform/server.mjs", "seed:demo": "node platform/cli.mjs seed-demo", "test": "node platform/run-tests.mjs", "check": "node platform/check.mjs" }
+}
