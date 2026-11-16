@@ -1,0 +1,14 @@
+{
+  "province": "QC",
+  "sector": "food",
+  "buildingUse": "commercial",
+  "applicantRole": "owner",
+  "utility": "hydro_quebec",
+  "energySource": "electricity",
+  "measures": ["refrigeration", "heat_recovery"],
+  "workStatus": "planned",
+  "dates": {},
+  "technical": {},
+  "annualConsumption": null,
+  "projectCost": null
+}

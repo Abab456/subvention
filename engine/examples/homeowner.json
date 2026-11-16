@@ -1,0 +1,6 @@
+{
+  "segment": "homeowner",
+  "location": { "province": "QC", "postalPrefix": null },
+  "project": { "measures": ["heat_pump", "insulation"], "workStatus": "planned", "dates": {} },
+  "answers": { "applicantRole": "unknown", "buildingType": "house", "energySource": "electricity" }
+}
