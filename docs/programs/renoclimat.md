@@ -1,0 +1,11 @@
+# Rénoclimat — new pathway and transition
+
+Checked 2026-11-15 America/Toronto; review recorded 2026-11-16T04:42:16Z. New pathway effective **2026-10-01**. Metadata: **OFFICIAL_PAGE_REVIEWED / targeted document sections reviewed**. Calculation: **NOT_VERIFIED**.
+
+The [new-pathway page](https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-renovation-ecoenergetique/renoclimat/nouveautes-adaptation-inondations) makes pre-work assessment optional and identifies a transition for existing participants, with the old-path post-work evaluation deadline of 2027-03-31. It still describes a new portal in development; actual submission availability has not been tested.
+
+The [2026 guide](https://cdn-contenu.quebec.ca/cdn-contenu/environnement/transition-energetique/residentiel-renoclimat/renoclimat-guide-participant.pdf), introduction and sections 2.3–2.8, identifies a residential owner pathway, licensed-contractor work, timing and expenditure restrictions. It excludes owner-performed work and application-preparation expenses; sections 2.6/2.8 address submission timing and restrictions on accumulating public assistance. These observations do not establish an allocation rule for distinct measures across programs.
+
+The [official comparison](https://cdn-contenu.quebec.ca/cdn-contenu/environnement/transition-energetique/residentiel-renoclimat/renoclimat-tableau-comparatif-avant-apres.pdf), page 1, separates new/old evaluation requirements and removed measures. The guide takes precedence. The [legacy assessment page](https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-renovation-ecoenergetique/renoclimat/evaluation-energetique/evaluation-energetique-avant-travaux) retains old process text under a transition notice. **Conflict handling:** do not blend versions; require prior participation and exact dates. Overlapping transition options remain manual-review cases.
+
+Critical inputs: ownership/applicant, property classification, participation history, dates, measure specifications, contractor evidence and other assistance. Published limits are not entitlements. Formula review is incomplete; all figures stay null. Cross-program stacking remains UNKNOWN in the scaffold pending a complete scoped rule review.
