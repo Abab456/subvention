@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:subvention-energie:discovery-result:0.1",
+  "title": "Validation-stage result; numeric computation disabled",
+  "type": "object",
+  "required": ["status", "segment", "candidatePrograms", "figures", "nextSteps", "disclaimer"],
+  "properties": {
+    "status": { "enum": ["information_required", "manual_review", "not_eligible_for_checked_program", "no_covered_match", "program_closed"] },
+    "segment": { "enum": ["homeowner", "multiresidential", "commercial"] },
+    "candidatePrograms": { "type": "array", "items": { "$ref": "#/$defs/candidate" } },
+    "figures": { "type": "null" },
+    "nextSteps": { "type": "array", "items": { "type": "string" } },
+    "disclaimer": { "type": "string", "minLength": 1 }
+  },
+  "$defs": {
+    "candidate": {
+      "type": "object",
+      "required": ["id", "name", "officialUrl", "sourceCheckedAt", "verificationStatus", "reasons", "missingInformation"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "officialUrl": { "type": "string", "format": "uri", "pattern": "^https://(www\\.)?(hydroquebec\\.com|quebec\\.ca)/" },
+        "sourceCheckedAt": { "type": ["string", "null"], "format": "date-time" },
+        "verificationStatus": { "type": "string", "minLength": 1 },
+        "reasons": { "type": "array", "items": { "type": "string" } },
+        "missingInformation": { "type": "array", "items": { "type": "string" } },
+        "figures": { "type": "null" }
+      }
+    }
+  }
+}
