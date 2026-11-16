@@ -1,0 +1,19 @@
+# Initial launch-pack priorities — hypotheses to validate
+
+Ranking below is a **product judgment about review effort**, not a measured market-demand, conversion or profitability ranking. No customer interviews, acquisition experiments, pricing tests or contractor funnel data have been obtained. Official program descriptions support possible routes; they do not establish demand or entitlement.
+
+| Priority | Use case and candidate route | Evidence / estimability | Service complexity and launch decision |
+|---|---|---|---|
+| 1 | Defined commercial equipment project: lighting/HVAC/controls; Solutions efficaces discovery | First-party indexed equipment route exists, but direct guide/tool review blocked. Potential to bound one exact equipment/market/date pack after official review; no current numeric estimate. | Start with a checklist and manual technical review. Validate willingness to pay for coordination when an official OSE tool also exists. Do not recreate all measures first. |
+| 2 | Natural-gas business needs a feasibility study before commitments; Énergir studies | Direct current page supplies applicant/heating/engineering context. Narrow study service could be bounded after complete guide/expense/timing review. | Requires an appropriately registered engineering firm and client authority. Test whether the platform can reduce administrative effort without implying it supplies unqualified engineering advice. |
+| 3 | Manufacturing/food heat recovery or process decarbonization; ÉcoPerformance analysis/standard | Direct official stream descriptions and framework update available. Numeric readiness is lower: baselines, additionality, costs, avoided emissions and payback require technical evidence. | Larger custom cases may justify coordination effort, but deal size, cycle time, collection risk and margins are unmeasured hypotheses. Use advisor triage first and a narrowly documented technical partnership. |
+
+Evidence: [Hydro-Québec equipment route](https://www.hydroquebec.com/affaires/economies-energie-entreprise/solutions-efficaces/moyennes-grandes-entreprises.html), [Énergir studies](https://energir.com/fr/affaires/efficacite-energetique/programme-efficacite-energetique/etudes-et-implantation), [ÉcoPerformance overview](https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/energie/reussir-ses-projets-transition-energetique/aide-financiere/programme-ecoperformance). Checked/effective/access statuses are in the inventory and catalog; these links do not upgrade calculation readiness.
+
+## Validation before committing the first pack
+
+Interview at least a few distinct business decision-makers in each proposed use case and the technical professional who would review the files. Observe an actual anonymized/synthetic application workflow: missing data, time spent, value of assistance, who pays, how consent and authority work, and whether direct self-service is sufficient. Record evidence without inventing conversion targets. Obtain explicit scope and prices before estimating contribution margin.
+
+Measure effort and economics separately: qualified projects, usable technical information, manual-review time, proposal acceptance, time to program decision, amounts actually received, service fees actually collected, refunds and support effort. A large grant amount is not platform revenue or profit. Compare service revenue with acquisition, engineering, advisor and payment costs; do not assume a success fee makes all cases viable.
+
+Launch-pack blockers: readable applicable Hydro guides/equipment/tool rules; complete Énergir guide; technical partner credentials/scope; complete ÉcoPerformance framework and eligibility checks; precise cost/timing/stacking rules; legal/commercial validation of mandates and fees. Closed RCx and closed federal calls are monitoring inventory, not acquisition promises.

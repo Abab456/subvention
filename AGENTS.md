@@ -1,4 +1,20 @@
-# Repository guidance for Codex
+# Current mission — business platform, November 16, 2026
+
+The founder's latest mission supersedes the validation-stage instructions preserved below as history. Build an independent Québec **business-only** platform for commercial, industrial and SME efficiency/decarbonization projects. Preserve `prototype/` and legacy engine exports/tests; do not extend residential features.
+
+## Current ownership
+Reuse the two existing workstreams. `experience_builder` owns `web/` and `docs/product/`. `program_rules` owns additive business modules under `engine/`, `docs/programs/business/` and `docs/rules/business/`. Coordinator owns `platform/`, root configuration, CI, contracts and delivery docs. Read `docs/business-contract.md`. Do not edit another worker's files or run Git while they author. Separate staging trees are permitted where worktree permissions differ; coordinator transfers reviewed scopes sequentially.
+
+## Current gates
+- Functional non-production releases are authorized. No public deployment, production activation, expenses, payment credentials, government submissions, real customer records, or main merges without the necessary founder/legal/privacy/security/operational approvals.
+- Default to loopback-only development and synthetic records; fail closed on production configuration. Implement actual authentication, authorization, tenant isolation, CSRF/origin checks, session security, validation and audited transitions. Never weaken protections for tests.
+- Numeric grants need a completely reviewed, source-linked, versioned scoped pack and sufficient inputs. Otherwise return useful information-required/manual review. Metadata verification is not calculation readiness. Unknown stacking cannot be summed. Separate grants, loans, savings, decisions, receipts and revenue. Billing is draft-only and success fees require verified covered receipts.
+- Source records distinguish official URL, checked/effective dates, availability, review status and calculation readiness. Monitoring proposes changes for human approval and never publishes eligibility or financial changes.
+- French first, professional English, business-only public acquisition, sourced indexable content, mobile/keyboard usability and independent-service identity. No fabricated endorsements, demand figures or testimonials. No trackers or marketing consent bundled with requested service.
+- Illustrative financial figures require `EXAMPLE ONLY — NOT A REAL GRANT ESTIMATE`. Pricing remains configurable and subject to commercial/legal validation.
+- Test business invariants and security boundaries. Distinguish synthetic/HTTP checks from actual browser or production verification. Keep setup, gates, blockers and decisions documented. Continue independent work when external integrations are blocked.
+
+# Historical validation instructions (superseded scope/workflow)
 
 ## Product intent
 Build a validation-stage prototype for **Subvention Énergie**, an independent Québec-first platform helping homeowners, multiresidential property owners, and businesses discover potential energy-efficiency assistance. The free guided estimate is a lead magnet; paid review and application support are a proposed service, not yet validated. This is unrelated to software sold to government administrators.
